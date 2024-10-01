@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I studying ...✏ </h2>
+<h2 align="left">I'm studying ...✏ </h2>
 
 ###
 
