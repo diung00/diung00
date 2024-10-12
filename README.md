@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Studying program language since June 2024 <br>
+<p align="left">✨ Studying programing languages since June 2024 <br>
                 📚 I'm Vietnamese student in Korea <br>
-                🎯 Goals: ...</p>
+                🎯 Goals: Code proficiently to secure a job in the tech industry </p>
 
 ###
 
